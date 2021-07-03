@@ -2,4 +2,4 @@
 Yazılan yazıları kelime olarak listeye yerleştiren yazılım
 
 
-![GitHub Logo](ekran3.png).
+![The San Juan Mountains are beautiful!](ekran3.PNG "San Juan Mountains")
