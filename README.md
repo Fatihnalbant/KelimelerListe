@@ -2,4 +2,4 @@
 Yazılan yazıları kelime olarak listeye yerleştiren yazılım
 
 
-![The San Juan Mountains are beautiful!](ekran3.PNG "San Juan Mountains")
+![Kelimeler!](ekran3.PNG "Kelimeler ayrı ayrı listele")
